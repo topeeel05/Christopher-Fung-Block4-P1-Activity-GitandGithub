@@ -1,0 +1,5 @@
+package values
+
+object
+object {
+}
