@@ -1,4 +1,4 @@
-package com.example.christopherfung_block4_quiz
+package com.<fung.christopher.p1.quiz
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
